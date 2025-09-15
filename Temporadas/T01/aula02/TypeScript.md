@@ -1,4 +1,4 @@
-# Por que usar o Typesscript em projetos pequenos ou em projetos?
+# Por que usar o Typescript em projetos pequenos ou em projetos?
 
 **Vantangens do TypeScript**
 
