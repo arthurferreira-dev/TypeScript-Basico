@@ -35,7 +35,7 @@ for (variavel; condicional; incremento) {
 
 ### forIn
 
-Usando o ```forIn``:
+Usando o ``forIn``:
 
 ```typescript
 for (const index in users) {
